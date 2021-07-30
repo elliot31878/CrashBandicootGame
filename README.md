@@ -11,7 +11,8 @@ secound=>pip install -r requirements.txt
 ![play](https://user-images.githubusercontent.com/63051195/127717992-51835d16-6a91-4f86-84e1-0ff5f3c58c7f.png)
 ```bash
 [ShortKeys]
-space=>jump
-shift=>rotation
-with arrows=move game charecter
+space => jump
+shift => rotation
+with arrows key => move game charecter
 ```
+## GoodBye
