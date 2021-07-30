@@ -15,4 +15,4 @@ space => jump
 shift => rotation
 with arrows key => move game charecter
 ```
-## GoodBye
+## GoodBye ;)
