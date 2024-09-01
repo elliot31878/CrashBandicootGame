@@ -35,7 +35,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/MrXDv/CrashBandicootGame.git
+    git clone https://github.com/elliot31878/CrashBandicootGame.git
     cd CrashBandicootGame
     ```
 
